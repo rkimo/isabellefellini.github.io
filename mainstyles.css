@@ -1,0 +1,22 @@
+html {}
+body {
+    height:100vh;
+    margin:0;
+}
+
+#container {
+   // background-color: lightpink;
+    height:100%;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#keepaspectratio {
+    width:30%;
+}
+#comingsoonimg {
+    width:100%;
+}
+
